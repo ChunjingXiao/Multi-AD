@@ -3,7 +3,7 @@
 This repository contains the code implementation of Multi-AD for graph anomlay detection. 
 
 ## Dataset Sources
-- The sources and usage of the [Amazon](https://docs.dgl.ai/en/latest/generated/dgl.data.FraudAmazonDataset.html#dgl.data.FraudAmazonDataset) and [YelpChi](https://docs.dgl.ai/en/latest/generated/dgl.data.FraudYelpDataset.html#dgl.data.FraudYelpDataset) datasets can be found in `dgl.data`; 
+- The sources and usage of the[YelpChi](https://docs.dgl.ai/en/latest/generated/dgl.data.FraudYelpDataset.html#dgl.data.FraudYelpDataset) dataset can be found in `dgl.data`; 
 - The sources of the [Weibo](https://drive.google.com/file/d/1txzXrzwBBAOEATXmfKzMUUKaXh6PJeR1/edit) and [T-Finance](https://drive.google.com/file/d/1txzXrzwBBAOEATXmfKzMUUKaXh6PJeR1/edit) datasets can be obtained from [''GADBench: Revisiting and Benchmarking Supervised Graph Anomaly Detection''](https://arxiv.org/abs/2306.12251); 
 - The source and usage of the [Elliptic](https://www.kaggle.com/datasets/ellipticco/elliptic-data-set) dataset can be found on the `kaggle.com`.
 
